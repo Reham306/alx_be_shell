@@ -1,1 +1,1 @@
-su betty 
+shell_permissions
